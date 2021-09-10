@@ -41,4 +41,4 @@
 <br>
 🤓 **Interested:** <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)# tresorsawasawa
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)# <br>tresorsawasawa</br>
