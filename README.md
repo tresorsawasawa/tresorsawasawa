@@ -16,8 +16,8 @@
 
 <p align="center">&nbsp;
  
-| Activities |   Languages |
-| ---------- | ----------- |
+| Activities  |   Languages  |
+| ----------- | ------------ |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorsawasawa&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresorsawasawa&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
 </p>
 
