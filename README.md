@@ -31,6 +31,11 @@
 
 <hr>
 
+**Visitor count:**
+<img src="https://profile-counter.glitch.me/tresorsawasawa/count.svg" />
+
+<hr>
+
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
