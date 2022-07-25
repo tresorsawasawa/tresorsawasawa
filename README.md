@@ -32,13 +32,19 @@
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 <hr>
 <br>
+
 🤓 **Interested:** <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)# <br>tresorsawasawa</br>
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
