@@ -1,5 +1,4 @@
 <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/></p><hr><h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tresor Sawasawa </h1><h3 align="center">Web Developer</h3><p align="center"><a href="https://www.linkedin.com/in/tr%C3%A9sor-sawasawa-43745320b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/tresor.sawasawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/TresorSawasawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: tresorsawasawa@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
-
  
 <p align="center">
   A student at <a href="https://microverse.org"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
@@ -16,8 +15,8 @@
 
 <p align="center">&nbsp;
  
-| Activities |   Languages |
-| ---------- | ----------- |
+| Activities  |   Languages  |
+| ----------- | ------------ |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorsawasawa&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresorsawasawa&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
 </p>
 
@@ -33,13 +32,19 @@
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 <hr>
 <br>
+
 🤓 **Interested:** <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)# <br>tresorsawasawa</br>
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
